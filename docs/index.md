@@ -188,6 +188,15 @@ A use case diagram is a set of use cases, actors and their relationships.it’s 
 
 ![usecase](images/usecase.png)
 
+![visitor_usecase](images/usecase.png)
+
+![student_usecase](images/usecase.png)
+
+![instructor_usecase](images/usecase.png)
+
+![tas_usecase](images/usecase.png)
+
+
 Fig: use case diagram
  
 B- Sequence diagram
